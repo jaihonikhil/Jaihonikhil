@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 📕 that I am reading Right now: Steal like an Artist by Austin Kleon
+
 🎵 on loop Familiar by Agnes Obel, The Devil's Walk and Cardigan
+
 I have recently started with Writing, you can find my initial blogs at https://jaihonikhil.medium.com/ Hehe 
-Feel free to mail me to talk about anything interesting! I love talking and meeting people!
+
+Feel free to mail me to talk about anything interesting! I love talking and meeting people! Enchante!
 
 
 <!--
