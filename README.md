@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-📕 that I am reading Right now: Steal like an Artist by Austin Kleon
+📕 that I am reading Right now: Outliers
 
-🎵 on loop Familiar by Agnes Obel, The Devil's Walk and Cardigan
 
 I have recently started with Writing, you can find my initial blogs at https://jaihonikhil.medium.com/ Hehe 
 
