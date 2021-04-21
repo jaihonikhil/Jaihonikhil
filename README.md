@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-📕 that I am reading Right now: Outliers
-
 
 I have recently started with Writing, you can find my initial blogs at https://jaihonikhil.medium.com/ Hehe 
 
