@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I have recently started with Writing, you can find my initial blogs at https://jaihonikhil.medium.com/ Hehe 
+I have recently started with Writing, you can find my initial blogs at <a style="color:#02ccff" href="https://jaihonikhil.medium.com/">Click Me XD</a>  
 
 Feel free to mail me to talk about anything interesting! I love talking and meeting people! Enchante!
 
