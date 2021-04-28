@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**😇 <b>My FUNNY Github Stats</b>:**
+**😇 <b>My FUNNY Cool Github Stats</b>:**
 <br>
 <p align = "center">
   <a href="https://github.com/jaihonikhil">
