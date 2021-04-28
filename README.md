@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**😇 <b>My Github Stats</b>:**
+<br>
+<p align = "center">
+  <a href="https://github.com/jaihonikhil">
+    <img src = "https://github-readme-stats.vercel.app/api?username=jaihonikhil&show_icons=true&theme=radical&line_height=27&include_all_commits=false">
+  </a>
+  <a href="https://github.com/bislara">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jaihonikhil&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8">
+  </a>
+</p>
