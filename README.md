@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 **😇 <b>My FUNNY Cool Github Stats</b>:**
 <br>
 <p align = "center">
@@ -30,3 +31,4 @@ Here are some ideas to get you started:
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jaihonikhil&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8">
   </a>
 </p>
+-->
